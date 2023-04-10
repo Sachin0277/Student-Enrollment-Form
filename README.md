@@ -25,4 +25,5 @@ Primary key: Roll No.
 
 ## Release History 
 
+First Release : https://github.com/Sachin0277/Student-Enrollment-Form/releases/tag/V0.1.0
 
